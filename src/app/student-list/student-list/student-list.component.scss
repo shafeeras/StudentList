@@ -1,0 +1,17 @@
+.container{
+    margin-top: 70px;
+}
+.header{
+    background-color: #1e5e96;
+    
+}
+.row{
+    margin: 0 !important;
+}
+.items:nth-child(even){
+    background-color:grey;
+    }
+
+.items:nth-child(odd){
+    background-color:lightgray;
+    }
